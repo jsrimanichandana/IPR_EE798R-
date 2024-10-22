@@ -1,0 +1,13 @@
+numpy
+scipy
+torch
+torchaudio
+tensorflow
+pytorch
+sklearn
+pandas
+matplotlib
+librosa
+openSMILE (for feature extraction)
+matplotlib.pyplot
+librosa.display
