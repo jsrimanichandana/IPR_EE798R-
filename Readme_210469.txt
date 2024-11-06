@@ -1,10 +1,7 @@
 INSTRUCTIONS:
 1)Install dependencies: 
-pip install -r requirements.txt
-2)The IEMOCAP dataset can be accessed through:
-https://drive.google.com/file/d/1eT3GesS6I50UHlPlU75YcoJENHAkTHqc/view?usp=sharing
-3)As the folder is large(12gb) run the file in google colab:
-i) change the runtime settings:
-Runtime > Change runtime type > Set Hardware accelerator to GPU > Click Save.
-ii)Run the code. ( give the data path from the drive) 
+pip install -r Mani_210469_requirements.txt
+2)The Physionet dataset can be accessed through:
+https://physionet.org/files/eegmat/1.0.0/
+3) Run the code.
 
